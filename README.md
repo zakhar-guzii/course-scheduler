@@ -2,13 +2,7 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![Python Version][python-shield]][python-url]
-[![Build Status][ci-shield]][ci-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -63,11 +57,6 @@ It models courses as nodes in an **interval/conflict graph**, then applies a **g
 
 ### Built With
 
-[![Python][Python]][Python-url]  
-[![Textual][Textual]][Textual-url]  
-[![NetworkX][NetworkX]][NetworkX-url]  
-[![Matplotlib][Matplotlib]][Matplotlib-url]  
-[![SQLite][SQLite]][SQLite-url]  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +68,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- **Python 3.9+** installed on your machine.  
+- **Python 3.11+** installed on your machine.  
 - (Optional) [Git](https://git-scm.com/) for cloning the repository.
 
 ### Installation
